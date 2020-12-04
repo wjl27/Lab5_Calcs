@@ -1,5 +1,7 @@
 ####### HV Calculations v1.1 ########
 
+rm(list=ls())
+
 library(tidyverse)
 
 data <- as_tibble(read.csv("Hardness_Tests.csv"))
