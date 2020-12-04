@@ -1,4 +1,4 @@
-Indent #,x-coord,y-coord,Hardness,Load,D1,D2
+Indent,x-coord,y-coord,Hardness,Load,D1,D2
 1,0,0,457,500,46.3,43.7
 2,100,0,423,500,47.1,46.4
 3,200,0,414,500,47.4,47.3
